@@ -20,8 +20,9 @@ def read_book():
 
 def add_book():
     """This is an ADD BOOK Function. It takes name of the book, author and quantity."""
+    book_data = read_book()
+    print(Fore.GREEN + " --- ADD BOOK ---")
     while True:
-       print(Fore.GREEN + " --- ADD BOOK ---")
        book_id = input("Enter Book ID : ").strip()
        if book_id.isdigit:
           book_id = int(book_id)
