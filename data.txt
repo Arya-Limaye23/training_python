@@ -1,5 +1,5 @@
 1, Harry Potter and Philosopher's Stone, J.K.Rowling, 5 
 2, Harry Potter and the Chamber of Secrets, J.K.Rowling, 5 
 3, Harry Potter and the Prisoner of Azkaban, J.K.Rowling, 8 
-1, Harry Potter and the Goblet of Fire, J.K.Rowling, 8 
+4, Harry Potter and the Goblet of Fire, J.K.Rowling, 8 
 5, Harry Potter and the Order of Phoenix, J.K.Rowling, 10 
